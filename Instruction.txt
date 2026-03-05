@@ -1,0 +1,5 @@
+Mila mampiditra python fa iny no miasa amin'ny machine Learning.
+De manao 'pip install pandas scikit-learn numpy' 
+
+surtout ray ty moa zany eee 'scikit-learn ' 
+ scikit-learn  ty mba maivana par rapport any pytorch amin'ny donnée maiva io.
