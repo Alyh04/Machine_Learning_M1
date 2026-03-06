@@ -1,3 +1,3 @@
 - [Mariot__Fanantenana](https://github.com/mariotFaah)
 - [Alyh Lorniot](#)
-- [Fenitra](#)
+- [Fenitriniaina](#)
