@@ -1,3 +1,3 @@
-- [Mariot__Fanantenana](https://github.com/mariotFaah)
-- [Alyh Lorniot](#)
-- [Fenitriniaina](#)
+- [Mariot__Fanantenana](https://github.com/mariotFaah) (462H-TOL)
+- [Lorniot_Marcel](https://github.com/Alyh04) (446H-TOL)
+- [Fenitriniaina](https://github.com/Fenitriniaina03) (417H-TOL)

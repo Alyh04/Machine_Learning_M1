@@ -1,5 +1,5 @@
-Mila mampiditra python fa iny no miasa amin'ny machine Learning.
+Mila mampiditra python.exe ao amin'ny pc aloha fa amin'ny python no hanaovana ny script, sady iny no miasa amin'ny machine Learning dans notre cas.
 De manao 'pip install pandas scikit-learn numpy' 
 
-surtout ray ty moa zany eee 'scikit-learn ' 
- scikit-learn  ty mba maivana par rapport any pytorch amin'ny donnée maiva io.
+surtout ity 'scikit-learn' ity moa zany eee  
+scikit-learn ity mba maivana par rapport any pytorch amin'ny donnée maiva io.
